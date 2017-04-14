@@ -1,7 +1,12 @@
 # 2lru-for-ccnsim
 This Class implements 2lRU a caching replacement algorithm proposed by Garetto et al [1] for ccnsim that is a simulator for Content Centric Networks [2]. 
 
-Copy k2lru.h ccnsim/include, k2lru.cc in ccnsim/src/noce/cache, cache.ned in ccnsim/modules/node/cache and Makefile in ccnsim folder. Make the poroject before run it.
+Copy k2lru.h to ccnsim/include/ \
+Copy k2lru.cc to ccnsim/src/noce/cache/ \
+Copy cache.ned to ccnsim/modules/node/cache/ \
+Copy Makefile to ccnsim/ \ 
+
+Make the poroject before run it.
 
 Note: this class in compatible with ccnsim3.
 
