@@ -23,6 +23,10 @@
  *
  */
 
+/*
+ * implemented by Alireza Montazeri (alireza.montazeri@usask.ca)
+ */
+
 #include <iostream>
 #include "lru_cache.h"
 
