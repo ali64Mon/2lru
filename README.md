@@ -4,7 +4,7 @@ This Class implements 2lRU a caching replacement algorithm proposed by Garetto e
 Copy k2lru.h to ccnsim/include/ \
 Copy k2lru.cc to ccnsim/src/noce/cache/ \
 Copy cache.ned to ccnsim/modules/node/cache/ \
-Copy Makefile to ccnsim/ \ 
+Copy Makefile to ccnsim/ 
 
 Make the poroject before run it.
 
